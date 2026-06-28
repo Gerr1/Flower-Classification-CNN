@@ -432,7 +432,7 @@ st.markdown(
         <div class="metric-label">Metode Model</div>
     </div>
     <div class="metric-card">
-        <div class="metric-value">150</div>
+        <div class="metric-value">180</div>
         <div class="metric-label">Ukuran Input</div>
     </div>
     <div class="metric-card">
